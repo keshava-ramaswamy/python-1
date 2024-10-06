@@ -1,3 +1,4 @@
+"Hello"
 # Kubernetes Python Client
 
 [![Build Status](https://travis-ci.org/kubernetes-client/python.svg?branch=master)](https://travis-ci.org/kubernetes-client/python)
